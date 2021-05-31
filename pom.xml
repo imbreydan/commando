@@ -33,4 +33,11 @@
   <name>Commando</name>
   <description>The command library for my stuff.</description>
 
+  <distributionManagement>
+    <repository>
+      <id>breydan-maven</id>
+      <url>https://maven.breydan.dev/releases</url>
+    </repository>
+  </distributionManagement>
+
 </project>
